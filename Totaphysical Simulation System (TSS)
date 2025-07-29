@@ -1,0 +1,17 @@
+# 🌌 Totaphysical Simulation System (TSS)
+
+This simulation is based on the Totaphysical framework developed by Akiyakiya Iyaboko. It models cosmic realms, energy flows, and Multiral field dynamics through Unity.
+
+## ✨ Features
+- Multiral realm logic: Spiral, Linear, Chaos, Static, Unknown
+- Totaphysical constants: Gotomai, Imoumikapo, Kaboo
+- Akiitoko Field interaction simulation
+- Scientific, philosophical, and visual integration
+
+## 🚀 How to Use
+1. Clone or download this repo on a machine with Unity
+2. Open project in Unity Hub
+3. Open `Assets/Scenes/World.unity`
+4. Press ▶️ to run the simulation
+
+## 🛠 Project Structure
